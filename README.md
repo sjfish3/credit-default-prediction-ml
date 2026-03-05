@@ -87,9 +87,13 @@ The results highlight the impact of **class imbalance**, where accuracy can be m
 
 ## Project Structure
 │
+
 ├── credit_default_model.ipynb
+
 ├── README.md
+
 ├── data
+
   └── default_of_credit_card_clients.xls
 
 ---
