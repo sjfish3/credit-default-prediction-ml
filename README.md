@@ -94,7 +94,7 @@ The results highlight the impact of **class imbalance**, where accuracy can be m
 
 ├── data
 
-  └── default_of_credit_card_clients.xls
+     └── default_of_credit_card_clients.xls
 
 ---
 
